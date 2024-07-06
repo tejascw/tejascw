@@ -30,7 +30,8 @@ I am a dedicated Mechanical Engineer with a passion for robotics, automation, an
 ## 💼 Skills
 
 ### Technical Skills
-- NX Design Software
+![download](https://github.com/tejascw/tejascw/assets/116948766/bc09ff6b-7fd2-4189-9619-0086055c9767)
+NX Design Software
 - Creo Parametric
 - ABB RobotStudio
 - Tecnomatix Software
@@ -54,6 +55,3 @@ I am a dedicated Mechanical Engineer with a passion for robotics, automation, an
 - 💼 [LinkedIn](https://www.linkedin.com/in/tejaswaghmare/)
 - 🧑‍💻 [GitHub](https://github.com/tejascw)
 
----
-
-Feel free to customize the links and add any additional information or personal touches you'd like.
