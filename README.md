@@ -39,6 +39,7 @@ NX Design Software
 - CNC Programming
 - Arduino Programming
 
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a2e8bc54-32ec-4b91-a192-464a0d35deef/0416aa43-e274-4519-92c7-3289c0082f51/Untitled.png)
 ### Soft Skills
 - Decision Making                          Analytical Thinking                              Team Work                        Problem Solving
 
