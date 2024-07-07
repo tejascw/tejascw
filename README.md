@@ -40,10 +40,7 @@ NX Design Software
 - Arduino Programming
 
 ### Soft Skills
-- Decision Making
-- Analytical Thinking
-- Team Work
-- Problem Solving
+- Decision Making                          Analytical Thinking                              Team Work                        Problem Solving
 
 ## 📜 Certifications
 - [Industry 4.0 & Digitalization Smart Manufacturing Internship](https://github.com/tejascw/INTERNSHIP) | V.R Jamdar Siemens Center Of Excellence, VNIT Nagpur.
