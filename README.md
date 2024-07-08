@@ -27,21 +27,8 @@ I am a dedicated Mechanical Engineer with a passion for robotics, automation, an
 - Participated at Entrepreneur Cell & Qualified for E-Summit 2024 Conducted by IIT-Bombay.
 - Completed a Smart Manufacturing Internship at V.R Jamdar Siemens Center Of Excellence, VNIT Nagpur.
 
-## 💼 Skills
-
-### Technical Skills
-![download](https://github.com/tejascw/tejascw/assets/116948766/bc09ff6b-7fd2-4189-9619-0086055c9767)
-NX Design Software
-- Creo Parametric
-- ABB RobotStudio
-- Tecnomatix Software
-- SinuTrain CNC programming & Simulation Software
-- CNC Programming
-- Arduino Programming
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a2e8bc54-32ec-4b91-a192-464a0d35deef/0416aa43-e274-4519-92c7-3289c0082f51/Untitled.png)
-### Soft Skills
-- Decision Making                          Analytical Thinking                              Team Work                        Problem Solving
+<h3 align="left">Technical Skills:</h3>
+<p align="left"> <a href="https://www.ptc.com/en/products/creo" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/Creo_logo.svg" alt="arduino" width="120" height="120"/> </a> <a href="https://plm.sw.siemens.com/en-US/nx/" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/NX-Logo.svg" alt="NX CAD/CAM" width="120" height="120"/> </a> <a href="https://new.abb.com/products/robotics/robotstudio" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/ABB_RobotStudio.svg" alt="python" width="120" height="120"/> </a>  <a href="https://plm.sw.siemens.com/en-US/tecnomatix/" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/Tecnomatix_logo%20(2).svg" alt="python" width="120" height="120"/> </a>  <a href="https://xcelerator.siemens.com/global/en/industries/machinebuilding/machine-tools/cnc4you/sinutrain-uebersicht.html" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/SinuTrain_logo.svg" alt="python" width="120" height="120"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/Arduino_Logo.svg" alt="python" width="120" height="120"/> </a> </p>
 
 ## 📜 Certifications
 - [Industry 4.0 & Digitalization Smart Manufacturing Internship](https://github.com/tejascw/INTERNSHIP) | V.R Jamdar Siemens Center Of Excellence, VNIT Nagpur.
