@@ -28,7 +28,7 @@ I am a dedicated Mechanical Engineer with a passion for robotics, automation, an
 - Completed a Smart Manufacturing Internship at V.R Jamdar Siemens Center Of Excellence, VNIT Nagpur.
 
 <h3 align="left">Technical Skills:</h3>
-<p align="left"> <a href="https://www.ptc.com/en/products/creo" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/Creo_logo.svg" alt="arduino" width="120" height="120"/> </a> <a href="https://plm.sw.siemens.com/en-US/nx/" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/NX-Logo.svg" alt="NX CAD/CAM" width="120" height="120"/> </a> <a href="https://new.abb.com/products/robotics/robotstudio" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/ABB_RobotStudio.svg" alt="python" width="120" height="120"/> </a>  <a href="https://plm.sw.siemens.com/en-US/tecnomatix/" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/Tecnomatix_logo%20(2).svg" alt="python" width="120" height="120"/> </a>  <a href="https://xcelerator.siemens.com/global/en/industries/machinebuilding/machine-tools/cnc4you/sinutrain-uebersicht.html" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/SinuTrain_logo.svg" alt="python" width="120" height="120"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/Arduino_Logo.svg" alt="python" width="120" height="120"/> </a> </p>
+<p align="left"> <a href="https://www.ptc.com/en/products/creo" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/Creo_logo.svg" alt="Creo" width="120" height="120"/> </a> <a href="https://plm.sw.siemens.com/en-US/nx/" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/NX-Logo.svg" alt="NX CAD/CAM" width="120" height="120"/> </a> <a href="https://new.abb.com/products/robotics/robotstudio" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/ABB_RobotStudio.svg" alt="ABB_RobotStudio" width="120" height="120"/> </a>  <a href="https://plm.sw.siemens.com/en-US/tecnomatix/" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/Tecnomatix_logo%20(2).svg" alt="TECNOMATIX" width="100" height="100"/> </a>  <a href="https://xcelerator.siemens.com/global/en/industries/machinebuilding/machine-tools/cnc4you/sinutrain-uebersicht.html" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/SinuTrain_logo.svg" alt="SinuTrain" width="100" height="100"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/Arduino_Logo.svg" alt="ARDUINO" width="100" height="100"/> </a> </p>
 
 ## 📜 Certifications
 - [Industry 4.0 & Digitalization Smart Manufacturing Internship](https://github.com/tejascw/INTERNSHIP) | V.R Jamdar Siemens Center Of Excellence, VNIT Nagpur.
@@ -39,4 +39,27 @@ I am a dedicated Mechanical Engineer with a passion for robotics, automation, an
 - 📧 Email: [tejaswaghmare2106@gmail.com](mailto:tejaswaghmare2106@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tejaswaghmare/)
 - 🧑‍💻 [GitHub](https://github.com/tejascw)
+
+<h3 align="left">Technical Skills:</h3>
+<p align="left">
+    <a href="https://www.ptc.com/en/products/creo" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tejascw/Asset-/blob/main/Creo_logo.svg" alt="arduino" width="120" height="120" style="margin-right: 15px;"/>
+    </a>
+    <a href="https://plm.sw.siemens.com/en-US/nx/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tejascw/Asset-/blob/main/NX-Logo.svg" alt="NX CAD/CAM" width="120" height="120" style="margin-right: 15px;"/>
+    </a>
+    <a href="https://new.abb.com/products/robotics/robotstudio" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tejascw/Asset-/blob/main/ABB_RobotStudio.svg" alt="python" width="120" height="120" style="margin-right: 15px;"/>
+    </a>
+    <a href="https://plm.sw.siemens.com/en-US/tecnomatix/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tejascw/Asset-/blob/main/Tecnomatix_logo%20(2).svg" alt="python" width="120" height="120" style="margin-right: 15px;"/>
+    </a>
+    <a href="https://xcelerator.siemens.com/global/en/industries/machinebuilding/machine-tools/cnc4you/sinutrain-uebersicht.html" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tejascw/Asset-/blob/main/SinuTrain_logo.svg" alt="python" width="120" height="120" style="margin-right: 15px;"/>
+    </a>
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tejascw/Asset-/blob/main/Arduino_Logo.svg" alt="python" width="120" height="120" style="margin-right: 15px;"/>
+    </a>
+</p>
+
 
