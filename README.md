@@ -1,11 +1,11 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=tejascw&label=Profile%20views&color=0e75b6&style=flat" alt="tejascw" /> </p> <h1 align="center">Hello 👋, I'm TEJAS WAGHMARE</h1> 
-
+ <h1 align="center">Hello 👋, I'm TEJAS WAGHMARE</h1> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejascw&label=Profile%20views&color=0e75b6&style=flat" alt="tejascw" /> </p>
 <h3 align="center">Passionate Mechanical Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/tejascw/Asset-/blob/main/mechanical%20engineer.gif">
 
 ## 🌐Contact with me: 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tejaswaghmare/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejaswaghmare/" height=40" width="40" /></a> <a href="mailto:tejaswaghmare2106@gmail.com" target="blank"><img align="left" src="https://github.com/tejascw/Asset-/blob/main/mail%20logo.svg" alt="" height="50" width="70" /></a> </p><br><br>
+<a href="https://www.linkedin.com/in/tejaswaghmare/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejaswaghmare/" height=40" width="40" /></a> <a href="mailto:tejaswaghmare2106@gmail.com" target="blank"><img align="left" src="https://github.com/tejascw/Asset-/blob/main/mail%20logo.svg" alt="" height="50" width="70" /></a> <a href="https://github.com/tejascw?tab=repositories" target="blank"><img align="left" src="https://github.com/tejascw/Asset-/blob/main/github%20logo.svg" alt="" height="40" width="40" /></a> </p><br><br>
 
 ## About Me:
 
