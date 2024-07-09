@@ -9,7 +9,7 @@
 
 ## 💫 About Me:
 
-I am a dedicated Mechanical Engineer with a passion for robotics, automation, and digitalization. With a solid academic background and hands-on project experience, I strive to contribute innovative solutions in the field of engineering.
+I am a dedicated Mechanical Engineer with a passion for Designing, robotics, automation, and digitalization. With a solid academic background and hands-on project experience, I strive to contribute innovative solutions in the field of engineering.
 
 - 📍 **Location:** Wardha, Maharashtra, India
 - 🎓 **Education:** B.Tech in Mechanical Engineering from Bajaj Institute Of Technology, Wardha (2020-2024)
