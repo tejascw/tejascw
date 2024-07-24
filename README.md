@@ -48,5 +48,6 @@ I am a dedicated Mechanical Engineer with a passion for Robotics, Automation, De
 - 📧 Email: [tejaswaghmare2106@gmail.com](mailto:tejaswaghmare2106@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tejaswaghmare/)
 - 🧑‍💻 [GitHub](https://github.com/tejascw)
+- 📄 [Resume](https://github.com/tejascw/RESUME)
 
 
