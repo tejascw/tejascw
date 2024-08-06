@@ -34,7 +34,7 @@ I am a dedicated Mechanical Engineer with a passion for Robotics, Automation, De
 - Precisely analyzed obstacle-detection range for different obstacle materials.
 - Developed an intelligent system enhancing the robot's navigation and obstacle avoidance.
 
-## INTERNSHIP EXPERIENCE
+## 🎓 INTERNSHIP EXPERIENCE
 ### [Smart Manufacturing Internship](https://github.com/tejascw/INTERNSHIP)
 I have successfully completed a 3-month internship in "Smart Manufacturing" at the V.R. Jamdar Siemens Center of Excellence at VNIT, Nagpur. Under the ineternship of Smart Manufacturing (Industry 4.0 & Digitalization) I have learn the following skill which are essential for smart manufacturing & Industry4.0:
 - [Robot programming by using ABB robotstudio Software](https://github.com/tejascw/ABB-RobotStudio/blob/main/README.md)
