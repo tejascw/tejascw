@@ -22,15 +22,42 @@ I am a dedicated Mechanical Engineer with a passion for Robotics, Automation, De
 
 
 ## 🎓 EXPERIENCE
+### [Bajaj Auto CSR ]()
+_Graduate Trainee Engineer_
+- Completed four core modules: Robotics & Automation, Mechatronics, Industry 4.0 & Smart Manufacturing, and Motion Control & Sensor Technology.
+- Gained hands-on experience in PLC programming (GX Works3, TIA Portal) and HMI design (GT Designer3).
+- Programmed SCARA, Cobot, and Articulated robots using Mitsubishi RT Toolbox3 and Fanuc RoboGuide (arc/spot welding).
+- Worked with various industrial sensors including inductive, capacitive, infrared, ultrasonic, temperature, and level detectors.
+- Performed path mapping and control of ANSCER Robotics Autonomous Mobile Robot (AMR).
+- Practiced CNC programming using G-code and M-code on Siemens and Fanuc controllers.
+- Gained exposure to Industrial Internet of Things (IIoT) and Computer Integrated Manufacturing (CIM) systems.
+
 ### [Smart Manufacturing Internship](https://github.com/tejascw/INTERNSHIP)
+_Intern_
 I have successfully completed a 3-month internship in "Smart Manufacturing" at the V.R. Jamdar Siemens Center of Excellence at VNIT, Nagpur. Under the ineternship of Smart Manufacturing (Industry 4.0 & Digitalization) I have learn the following skill which are essential for smart manufacturing & Industry4.0:
 - [Robot programming by using ABB robotstudio Software](https://github.com/tejascw/ABB-RobotStudio/blob/main/README.md)
 - [Technomatix Process simulate](https://github.com/tejascw/Tecnomatix)
 - [Siemens NX CAD/CAM software](https://github.com/tejascw/Siemens-NX-CAD-CAM/blob/main/README.md)
 - [CNC Programming](https://github.com/tejascw/CNC-Programming-SinuTrain-software-)
-
  
 ## 🚀 Projects
+### [Automated Storage and Retrieval System (ASRS) using PLC, HMI & Factory I/O](https://github.com/tejascw/Automated-Storage-and-Retrieval-System-ASRS-using-PLC-HMI-Factory-i-o)
+- An Automated Storage and Retrieval System (ASRS) is a computer-controlled system used in warehouses and manufacturing facilities to automatically place and retrieve loads from predefined storage locations. These systems are designed to increase efficiency, reduce labor costs, improve accuracy, and optimize inventory management.
+
+- This project demonstrates a fully simulated ASRS system created using:
+
+- PLC (Programmable Logic Controller) for control logic
+- HMI (Human Machine Interface) for operator interaction
+- Factory I/O for a realistic 3D simulation of the industrial environment
+
+### [Servo motor control using PLC & HMI -](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI)
+- Developed PLC logic in GX Works3 to control servo position using Home, Jog, and Position modes.  - Operated & simulated servo using GT Designer3 HMI.
+- Developed logic for three operational modes:
+- Home Mode: Automatically moves the servo to a predefined safe reference (home) position.
+- Jog Mode: Enables manual forward and reverse movement of the servo using HMI buttons.
+- Position Mode: Allows selection between three predefined positions, with servo movement triggered through HMI inputs.
+
+
 
 ### [Dynamic Path Tracker - Line Follower Robot](https://github.com/tejascw/Dynamic_Path_racker_Line_Follower_Robot)
 - Developed a cutting-edge Line follower robot using an IR sensor Array & Arduino.
@@ -44,13 +71,6 @@ I have successfully completed a 3-month internship in "Smart Manufacturing" at t
 - Precisely analyzed obstacle-detection range for different obstacle materials.
 - Developed an intelligent system enhancing the robot's navigation and obstacle avoidance.
 
-## 🎓 INTERNSHIP EXPERIENCE
-### [Smart Manufacturing Internship](https://github.com/tejascw/INTERNSHIP)
-I have successfully completed a 3-month internship in "Smart Manufacturing" at the V.R. Jamdar Siemens Center of Excellence at VNIT, Nagpur. Under the ineternship of Smart Manufacturing (Industry 4.0 & Digitalization) I have learn the following skill which are essential for smart manufacturing & Industry4.0:
-- [Robot programming by using ABB robotstudio Software](https://github.com/tejascw/ABB-RobotStudio/blob/main/README.md)
-- [Technomatix Process simulate](https://github.com/tejascw/Tecnomatix)
-- [Siemens NX CAD/CAM software](https://github.com/tejascw/Siemens-NX-CAD-CAM/blob/main/README.md)
-- [CNC Programming](https://github.com/tejascw/CNC-Programming-SinuTrain-software-)
 
 ## 🏆 Achievements
 - Participated at Entrepreneur Cell & Qualified for E-Summit 2024 Conducted by IIT-Bombay.
@@ -58,12 +78,15 @@ I have successfully completed a 3-month internship in "Smart Manufacturing" at t
 
 
 ## 📜 Certifications
-- [Industry 4.0 & Digitalization Smart Manufacturing Internship](https://github.com/tejascw/INTERNSHIP) | V.R Jamdar Siemens Center Of Excellence, VNIT Nagpur.
-- [C++ Programming Beginning to Advance](https://github.com/tejascw/Certificates/blob/main/C%2B%2B_certificate.pdf) | Udemy Sep 2023
-- [Python Introduction to Data Science & Machine Learning](https://github.com/tejascw/Certificates/blob/main/python_udemy_cer.pdf) | Udemy Oct 2022
+
+- [JASC 2025 E-Learning Course ](https://github.com/tejascw/BEST-Internship/blob/main/Janatics%20certificate.jfif) | Janatics | May 2025
+- [Bajaj Manufacturing Systems (BMS) – Certification Program](https://github.com/tejascw/BEST-Internship/blob/main/Tejas%20waghmare%20BMS%20Certification%20Program%20_%20English.pdf) |Bajaj Institute of Technology, Wardha. | Mar 2025
+- [Industry 4.0 & Digitalization Smart Manufacturing Internship](https://github.com/tejascw/INTERNSHIP) | V.R Jamdar Siemens Center Of Excellence, VNIT Nagpur | May 2024
+- [C++ Programming Beginning to Advance](https://github.com/tejascw/Certificates/blob/main/C%2B%2B_certificate.pdf) | Udemy | Sep 2023
+- [Python Introduction to Data Science & Machine Learning](https://github.com/tejascw/Certificates/blob/main/python_udemy_cer.pdf) | Udemy | Oct 2022
 
 ## 🌐 Connect with Me
-- 📧 Email: [tejaswaghmare2106@gmail.com](mailto:tejaswaghmare2106@gmail.com)
+- 📧 Email: [tejaswaghmare900@gmail.com](mailto:tejaswaghmare900@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tejaswaghmare/)
 - 🧑‍💻 [GitHub](https://github.com/tejascw)
 - 📄 [Resume](https://github.com/tejascw/RESUME/blob/main/Tejas%20C.%20Waghmare%20Resume.pdf)
