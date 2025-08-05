@@ -34,6 +34,7 @@ _Graduate Trainee Engineer_
 
 ### [Smart Manufacturing Internship](https://github.com/tejascw/INTERNSHIP)
 _Intern_
+
 I have successfully completed a 3-month internship in "Smart Manufacturing" at the V.R. Jamdar Siemens Center of Excellence at VNIT, Nagpur. Under the ineternship of Smart Manufacturing (Industry 4.0 & Digitalization) I have learn the following skill which are essential for smart manufacturing & Industry4.0:
 - [Robot programming by using ABB robotstudio Software](https://github.com/tejascw/ABB-RobotStudio/blob/main/README.md)
 - [Technomatix Process simulate](https://github.com/tejascw/Tecnomatix)
