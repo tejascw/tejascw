@@ -19,6 +19,16 @@ I am a dedicated Mechanical Engineer with a passion for Robotics, Automation, De
 ## 🛠️ Technical Skills:
 <p align="left"> <a href="https://www.ptc.com/en/products/creo" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/Creo_logo.svg" alt="Creo" width="120" height="120"/> </a> <a href="https://plm.sw.siemens.com/en-US/nx/" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/NX-Logo.svg" alt="NX CAD/CAM" width="120" height="120"/> </a> <a href="https://new.abb.com/products/robotics/robotstudio" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/ABB_RobotStudio.svg" alt="ABB_RobotStudio" width="120" height="120"/> </a>  <a href="https://github.com/tejascw/Tecnomatix/blob/main/README.md" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/Tecnomatix_logo%20(2).svg" alt="TECNOMATIX" width="100" height="100"/> </a>  <a href="https://xcelerator.siemens.com/global/en/industries/machinebuilding/machine-tools/cnc4you/sinutrain-uebersicht.html" target="_blank" rel="noreferrer"> <img src="https://github.com/tejascw/Asset-/blob/main/SinuTrain_logo.svg" alt="SinuTrain" width="90" height="100"/> </a>
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="100" height="100"/> </a> </p>
+
+
+## 🎓 EXPERIENCE
+### [Smart Manufacturing Internship](https://github.com/tejascw/INTERNSHIP)
+I have successfully completed a 3-month internship in "Smart Manufacturing" at the V.R. Jamdar Siemens Center of Excellence at VNIT, Nagpur. Under the ineternship of Smart Manufacturing (Industry 4.0 & Digitalization) I have learn the following skill which are essential for smart manufacturing & Industry4.0:
+- [Robot programming by using ABB robotstudio Software](https://github.com/tejascw/ABB-RobotStudio/blob/main/README.md)
+- [Technomatix Process simulate](https://github.com/tejascw/Tecnomatix)
+- [Siemens NX CAD/CAM software](https://github.com/tejascw/Siemens-NX-CAD-CAM/blob/main/README.md)
+- [CNC Programming](https://github.com/tejascw/CNC-Programming-SinuTrain-software-)
+
  
 ## 🚀 Projects
 
