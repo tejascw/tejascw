@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm TEJAS WAGHMARE</h1> 
-<h3 align="center">Passionate Mechanical Engineer | Enthusiastic Aobut: Robotics | Automation | Designing  </h3>
+<h3 align="center">Passionate Engineer | Enthusiastic About: PLC| HMI | Sensors| Mechatronics| Robotics | Automation | Design </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejascw&label=Profile%20views&color=0e75b6&style=flat" alt="tejascw" /> </p> 
 
 <img align="right" alt="coding" width="400" src="https://github.com/tejascw/Asset-/blob/main/mechanical%20engineer.gif">
